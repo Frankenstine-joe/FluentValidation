@@ -9,6 +9,9 @@ using System.Threading.Tasks;
 
 namespace FluentValidation
 {
+    /// <summary>
+    /// Added to Git for quick reference
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
